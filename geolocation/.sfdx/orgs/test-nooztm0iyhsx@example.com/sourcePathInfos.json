@@ -45,15 +45,15 @@
     [
         "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1522367226521,
             "changeTime": 1522367226521,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 339,
-            "modifiedTime": 1522366536760,
-            "changeTime": 1522366536760,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 542,
+            "modifiedTime": 1522367565282,
+            "changeTime": 1522367565282,
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1522366536761,
-            "changeTime": 1522366536761,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 395,
+            "modifiedTime": 1522367565282,
+            "changeTime": 1522367565282,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -944,14 +944,14 @@
     [
         "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "size": 256,
-            "modifiedTime": 1522367080642,
-            "changeTime": 1522367080642,
-            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 330,
+            "modifiedTime": 1522367565282,
+            "changeTime": 1522367565282,
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
         }
     ],
     [
@@ -1009,14 +1009,14 @@
     [
         "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "size": 387,
-            "modifiedTime": 1522367080643,
-            "changeTime": 1522367080643,
-            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 794,
+            "modifiedTime": 1522367565282,
+            "changeTime": 1522367565282,
+            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c"
         }
     ],
     [
@@ -1048,14 +1048,14 @@
     [
         "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
         {
-            "state": "u",
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1522367226522,
             "changeTime": 1522367226522,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1065,23 +1065,23 @@
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 62,
-            "modifiedTime": 1522367226521,
-            "changeTime": 1522367226521,
-            "contentHash": "73dd2d6095dcb17e014251e571de76a521b53c49"
+            "size": 100,
+            "modifiedTime": 1522367565282,
+            "changeTime": 1522367565282,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
         }
     ],
     [
         "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/juanjap/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1522367226522,
             "changeTime": 1522367226522,
-            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
+            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
